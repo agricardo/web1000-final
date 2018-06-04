@@ -1,5 +1,5 @@
 1. What are the four steps of mergesort?
-//Mergesort is a divide and conquer algorithm, first we divide de unsorted list in two half, seconde we divide each half also in half until
+//Mergesort is a divide and conquer algorithm, first we divide the unsorted list in two half, seconde we divide each half also in half until
 we get many arrays whit one element inside, third we merge the elements inside the arrays in to a new array, but this time sorted, fourth 
 we compare the first element of the array with the first element of the next array and pass the smalest element in to a new array, then 
 proside whit the secon element of the array, and we kip doing this until all the arrays merge in to one sorted array.  
@@ -214,3 +214,4 @@ i. The website must have your name, contact information, skills, and at least tw
 ii. The website must not be in a subdirectory of the document root. ie. It needs to be accessible by going to yourusername.fvi-grad.com/ without anything after the slash.
 iii. You can and should use a template
 iv. Include the link to your website in your answers document
+//http://raranda.fvi-grad.com/portfolio
